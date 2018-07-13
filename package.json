@@ -1,0 +1,23 @@
+{
+  "name": "noteapp-nodejs",
+  "version": "1.0.0",
+  "description": "Synchronous Code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaileshsakhare/NoteApp-NodeJS.git"
+  },
+  "author": "shailesh sakhare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaileshsakhare/NoteApp-NodeJS/issues"
+  },
+  "homepage": "https://github.com/Shaileshsakhare/NoteApp-NodeJS#readme",
+  "dependencies": {
+    "nodemon": "^1.18.1",
+    "yargs": "^7.1.0"
+  }
+}
